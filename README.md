@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoebsmk
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at shoebsmk4@gmail.com
 
 <!---
