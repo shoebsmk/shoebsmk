@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm Shoeb Mohammed Khan</h2>
-<h3 align="center"> coding to live == Living to code </h3>
+<h3 align="center"> Code to live == Live to code </h3>
 <img src="images/bg2.png"> 
 👨🏻‍💻 About Me
 
