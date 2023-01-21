@@ -1,7 +1,6 @@
-<img src="images/bg2.png"> 
 <h2 align="center">Hey there, I'm Shoeb Mohammed Khan</h2>
 <h3 align="center">I'm a Software Developer </h3>
-
+<img src="images/bg2.png"> 
 👨🏻‍💻 About Me
 
 - 👋 Hi, I’m @shoebsmk
