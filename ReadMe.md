@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Shoeb Khan</h2>
+<h2 align="center">Hi, I'm Shoeb</h2>
 <h3 align="center">Tech Enthusiast | Software Developer</h3>
 <p align="center">
   <img src="images/Banner.png">
@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Shoeb Mohammed Khan, a passionate software developer based in Chicago, IL.
+- 👋 Hi, I’m Shoeb, a passionate software developer based in Chicago, IL.
 - 🎓 I hold a Master's in Computer Science from DePaul University, where I delved deep into various technologies and methodologies.
 - 💼 Currently, I'm a Mobile Application Developer living in Chicago.
 - 📫 You can reach me via [email](mohammedkhancode@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/shoebmk/).
