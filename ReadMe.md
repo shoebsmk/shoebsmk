@@ -9,8 +9,8 @@
 - 👋 Hi, I’m Shoeb Mohammed Khan, a passionate software developer based in Chicago, IL.
 - 🎓 I hold a Master's in Computer Science from DePaul University, where I delved deep into various technologies and methodologies.
 - 💼 Currently, I'm a Mobile Application Developer living in Chicago.
-- 📫 You can reach me via [email](mailto:mohammedkhancode@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shoebmk/).
-- 🔗 Explore more about my work on my [portfolio website](https://www.shoebmk.dev/).
+- 📫 You can reach me via [email](mohammedkhancode@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shoebmk/).
+- 🔗 Explore more about my work on my [portfolio website](https://shoeb.click).
 
 Feel free to reach out for collaboration or to discuss exciting projects!
 
