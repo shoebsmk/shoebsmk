@@ -1,5 +1,3 @@
-<h2 align="center">Hi, I'm Shoeb</h2>
-<h3 align="center">Tech Enthusiast | Software Developer</h3>
 <p align="center">
   <img src="images/Banner.png">
 </p>
