@@ -1,7 +1,7 @@
-<h2 align="center">Hello, I'm Shoeb Mohammed Khan</h2>
-<h3 align="center">Code Enthusiast | Software Developer</h3>
+<h2 align="center">Hello, I'm Shoeb Khan</h2>
+<h3 align="center">Tech Enthusiast | Software Developer</h3>
 <p align="center">
-  <img src="images/bg2.png">
+  <img src="images/Banner.png">
 </p>
 
 ### 👨🏻‍💻 About Me
