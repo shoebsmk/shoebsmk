@@ -65,27 +65,27 @@ Feel free to explore more about my projects on [YouTube](#).
 
 ### 🌟 Experience
 
-- **Mobile Application Developer (Flutter) | Align Astrology | Chicago, IL | Jan 2024 - Present**
+- **Mobile Application Developer (Flutter) | Align Astrology | Chicago, IL**
   - Developed Alignment feature leveraging Generative AI for precise user compatibility prediction.
   - Redesigned horoscope visualization, amplifying user engagement by 20%.
   
-- **Software Developer | SkyIT – GBCS | Remote | Feb 2023 – Feb 2024**
+- **Software Developer | SkyIT – GBCS | Remote**
   - Enhanced search and filtering systems, reducing load times and improving user experience.
   - Conducted code reviews and initiated code migration from Java to Kotlin and Jetpack Compose.
   
-- **Mobile Application Developer | Checago Coffee App | Chicago, US | Nov 2022 – May 2023**
+- **Mobile Application Developer | Checago Coffee App | Chicago, IL**
   - Enhanced push notifications, resulting in a 20% increase in user engagement.
   - Streamlined order placement process and integrated Firebase messaging service.
   
-- **Java Developer | Eficens Systems | Dallas, US | April 2022 – Sep 2022**
+- **Java Developer | Eficens Systems | Dallas, TX**
   - Developed robust backend services using Spring Boot and Hibernate.
   - Integrated containerization and orchestration tools to improve deployment efficiency.
   
-- **Junior Software Developer | Visudh Ajivam | Hyderabad, IN | Nov 2019 – Sep 2021**
+- **Junior Software Developer | Visudh Ajivam | Hyderabad, IN**
   - Developed user interface for a Healthcare Application for native Android OS.
   - Integrated Google Maps API and implemented reusable UI components for Ads banners.
   
-- **Project Head | Microsoft Student Society | Hyderabad, IN | Sep 2018 – Jul 2019**
+- **Project Head | Microsoft Student Society | Hyderabad, IN**
   - Developed a VR application using C# and Unity for a unique campus tour.
   - Led professional workshops on AI and software development, contributing to open-source projects.
 
