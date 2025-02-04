@@ -67,14 +67,6 @@ Feel free to explore more about my projects on [YouTube](#).
   - Developed Alignment feature leveraging Generative AI for precise user compatibility prediction.
   - Redesigned horoscope visualization, amplifying user engagement by 20%.
   
-- **Software Developer | SkyIT – GBCS | Remote**
-  - Enhanced search and filtering systems, reducing load times and improving user experience.
-  - Conducted code reviews and initiated code migration from Java to Kotlin and Jetpack Compose.
-  
-- **Mobile Application Developer | Checago Coffee App | Chicago, IL**
-  - Enhanced push notifications, resulting in a 20% increase in user engagement.
-  - Streamlined order placement process and integrated Firebase messaging service.
-  
 - **Java Developer | Eficens Systems | Dallas, TX**
   - Developed robust backend services using Spring Boot and Hibernate.
   - Integrated containerization and orchestration tools to improve deployment efficiency.
